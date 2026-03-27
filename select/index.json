@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オーディナリー・ラヴ (エクストラオーディナリー・ミックス)",
+  "base_artist": "U2",
+  "createdAt": "2026-03-27T11:55:16.693938Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ordinary Love (Extraordinary Mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/pl_01_Ordinary_Love_(Extraordinary_Mix)_U2.txt"
+    }
+  ]
+}
